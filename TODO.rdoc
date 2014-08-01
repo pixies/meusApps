@@ -2,6 +2,6 @@
 
 === Versão 0 (v0)
 
-1. CRUD Usuario
+1. CRUD Usuario (ok)
 2. CRUD Cliente
 
