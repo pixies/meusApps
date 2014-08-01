@@ -1,3 +1,11 @@
 == LEIAME
 
 Conjunto de aplicativos implementados para resolver problemas do meu dia a dia. Quem por algum motivo tiver as mesmas demandas que eu, <tt>pode usar tudo</tt>.
+
+=== Aplicativos encontrados.
+
+1. Cadastro de Usuário
+
+
+
+=== O processo de desenvolvimento pode ser aconpanhado pelo arquivo TODO.rdoc
