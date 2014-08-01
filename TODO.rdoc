@@ -1,7 +1,6 @@
-TODO - A FAZER.
+== meusApp TODO - COISAS A FAZER.
 
-
-meusApp versão 0 (v0)
+=== Versão 0 (v0)
 
 1. CRUD Usuario
 2. CRUD Cliente
