@@ -1,0 +1,14 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Regra:</strong>
+  <%= @regra.regra %>
+</p>
+
+<p>
+  <strong>Descricao:</strong>
+  <%= @regra.descricao %>
+</p>
+
+<%= link_to 'Edit', edit_regra_path(@regra) %> |
+<%= link_to 'Back', regras_path %>

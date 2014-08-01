@@ -1,0 +1,27 @@
+<h1>Listing regras</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Regra</th>
+      <th>Descricao</th>
+      <th colspan="3"></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @regras.each do |regra| %>
+      <tr>
+        <td><%= regra.regra %></td>
+        <td><%= regra.descricao %></td>
+        <td><%= link_to 'Show', regra %></td>
+        <td><%= link_to 'Edit', edit_regra_path(regra) %></td>
+        <td><%= link_to 'Destroy', regra, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Regra', new_regra_path %>
