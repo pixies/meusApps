@@ -3,8 +3,10 @@
 === Versão 0 (v0)
 
 1. CRUD Usuario (ok)
-2. CRUD Regras de usuarios
-   2.1. se usuario comun
-   2.2. se admin
+2. CRUD Regras de usuarios (ok)
+  
+  2.1. se usuario comun
+  2.2. se admin
+
 3. CRUD Cliente
 
